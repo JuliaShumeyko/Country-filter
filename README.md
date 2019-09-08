@@ -1,5 +1,5 @@
-# Bank account tracking tool
-A simple bank account balance and tracking tool to practise LocalStorage
+# Country filter tool
+A tool that filters countries based on user input.
 
 # Demo
 
